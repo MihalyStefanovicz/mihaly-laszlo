@@ -1,0 +1,108 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="mihaly-laszlo.com" resolutions="1x" timestamp="1518862669268">
+  <folder name="css">
+    <file name="site_global.css" crc="11580411"/>
+    <file name="carne-vale.css" crc="249598118" ref="carne-vale"/>
+    <file name="4-magazine_-2016.css" crc="406078482" ref="4-magazine,-2016"/>
+    <file name="waiting-for-paul.css" crc="4010751140" ref="waiting-for-paul"/>
+    <file name="index.css" crc="337268932" ref="index"/>
+    <file name="nomq_index.css" crc="213512833" ref="index"/>
+    <file name="to-franco-ferrada.css" crc="222206081" ref="to-franco-ferrada"/>
+    <file name="installation.css" crc="4216039378" ref="installation"/>
+    <file name="nomq_installation.css" crc="3986432231" ref="installation"/>
+    <file name="4-magazine_-2017.css" crc="3876454807" ref="4-magazine,-2017"/>
+    <file name="polaroids.css" crc="339479435" ref="polaroids"/>
+    <file name="nomq_polaroids.css" crc="4126453106" ref="polaroids"/>
+    <file name="4-magazine_-2015.css" crc="4047325656" ref="4-magazine,-2015"/>
+    <file name="steps.css" crc="3981252668" ref="steps"/>
+    <file name="nomq_steps.css" crc="3820319899" ref="steps"/>
+  </folder>
+  <folder name="assets">
+    <file name="feb.01.1.tif" crc="306550756" seo="true" mt="1505157594000"/>
+    <file name="jan.25.1.tif" crc="299231931" seo="true" mt="1505157643000"/>
+    <file name="jan.26.1.tif" crc="149939546" seo="true" mt="1504194743000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="museutils.js" crc="163421577" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="whatinput.js" crc="86476730" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="museconfig.js" crc="36584860" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="webpro.js" crc="3848665353" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:polaroids:installation:steps"/>
+    <file name="require.js" crc="244322403" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+  </folder>
+  <folder name="images">
+    <file name="jan021.jpg" crc="4125905031" seo="true" ref="index"/>
+    <file name="jan031.jpg" crc="3976619581" seo="true" ref="index"/>
+    <file name="jan041.jpg" crc="3946534328" seo="true" ref="index"/>
+    <file name="jan051.jpg" crc="483200997" seo="true" ref="index"/>
+    <file name="jan101.jpg" crc="84146559" seo="true" ref="index"/>
+    <file name="feb011.jpg" crc="3820178583" seo="true" ref="index"/>
+    <file name="feb021.jpg" crc="303901328" seo="true" ref="index"/>
+    <file name="feb0411.jpg" crc="322059665" seo="true" ref="index"/>
+    <file name="jan291.jpg" crc="317891639" seo="true" ref="index"/>
+    <file name="jan301.jpg" crc="361944555" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="dsc_1221.jpg" crc="3963529901" seo="true" ref="carne-vale"/>
+    <file name="dsc_12351.jpg" crc="534654552" seo="true" ref="carne-vale"/>
+    <file name="dsc_12371.jpg" crc="233527098" seo="true" ref="carne-vale"/>
+    <file name="dsc_12391.jpg" crc="83172841" seo="true" ref="carne-vale"/>
+    <file name="loading.gif" crc="3815509949" ref="carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="17882-go-back-arrow-button1.jpg" crc="4072362739" seo="true" ref="carne-vale:polaroids:to-franco-ferrada:4-magazine,-2016:4-magazine,-2015:installation:waiting-for-paul:steps:4-magazine,-2017"/>
+    <file name="148.jpg" crc="359671372" seo="true" ref="polaroids"/>
+    <file name="185.jpg" crc="90300634" seo="true" ref="polaroids"/>
+    <file name="259.jpg" crc="29938496" seo="true" ref="polaroids"/>
+    <file name="444.jpg" crc="209940144" seo="true" ref="polaroids"/>
+    <file name="629.jpg" crc="3947675748" seo="true" ref="polaroids"/>
+    <file name="703.jpg" crc="170754036" seo="true" ref="polaroids"/>
+    <file name="925.jpg" crc="4222969216" seo="true" ref="polaroids"/>
+    <file name="000.jpg" crc="243410676" seo="true" ref="to-franco-ferrada"/>
+    <file name="002.jpg" crc="6480257" seo="true" ref="to-franco-ferrada"/>
+    <file name="003.jpg" crc="143524225" seo="true" ref="to-franco-ferrada"/>
+    <file name="004.jpg" crc="164423114" seo="true" ref="to-franco-ferrada"/>
+    <file name="006.jpg" crc="124429910" seo="true" ref="to-franco-ferrada"/>
+    <file name="001-crop-u11634.jpg" crc="4206417219" ref="4-magazine,-2016"/>
+    <file name="002-crop-u11711.jpg" crc="4113929635" ref="4-magazine,-2016"/>
+    <file name="003-crop-u11737.jpg" crc="118870841" ref="4-magazine,-2016"/>
+    <file name="004-crop-u11763.jpg" crc="132441679" ref="4-magazine,-2016"/>
+    <file name="005-crop-u11789.jpg" crc="201230782" ref="4-magazine,-2016"/>
+    <file name="01.jpg" crc="4003665703" seo="true" ref="4-magazine,-2015"/>
+    <file name="02.jpg" crc="295486648" seo="true" ref="4-magazine,-2015"/>
+    <file name="03.jpg" crc="157691545" seo="true" ref="4-magazine,-2015"/>
+    <file name="dsc_58942.jpg" crc="47547090" seo="true" ref="installation"/>
+    <file name="dsc_47182.jpg" crc="187711684" seo="true" ref="installation"/>
+    <file name="dsc_58851.jpg" crc="4271232356" seo="true" ref="installation"/>
+    <file name="dsc_58942396x594.jpg" crc="3836229228" seo="true" ref="installation"/>
+    <file name="dsc_47182394x263.jpg" crc="3968060959" seo="true" ref="installation"/>
+    <file name="dsc_58851395x593.jpg" crc="3979648318" seo="true" ref="installation"/>
+    <file name="img_23131.jpg" crc="301871630" seo="true" ref="waiting-for-paul"/>
+    <file name="94.jpg" crc="3784452770" seo="true" ref="waiting-for-paul"/>
+    <file name="page4_narrow.jpg" crc="4160739663" seo="true" ref="steps"/>
+    <file name="step1.jpg" crc="4169273251" seo="true" ref="steps"/>
+    <file name="26 (2).jpg" crc="308373451" seo="true" ref="steps"/>
+    <file name="16 (1).jpg" crc="367140904" seo="true" ref="steps"/>
+    <file name="page4_narrow460x723.jpg" crc="322854941" seo="true" ref="steps"/>
+    <file name="step1469x738.jpg" crc="419775624" seo="true" ref="steps"/>
+    <file name="26 (2)407x724.jpg" crc="193757989" seo="true" ref="steps"/>
+    <file name="16 (1)407x724.jpg" crc="3769960209" seo="true" ref="steps"/>
+    <file name="001.jpg" crc="4292313929" seo="true" ref="4-magazine,-2017"/>
+    <file name="0022.jpg" crc="345001109" seo="true" ref="4-magazine,-2017"/>
+    <file name="0032.jpg" crc="187369904" seo="true" ref="4-magazine,-2017"/>
+    <file name="0042.jpg" crc="38210236" seo="true" ref="4-magazine,-2017"/>
+    <file name="005.jpg" crc="3866237306" seo="true" ref="4-magazine,-2017"/>
+  </folder>
+  <file name="index.html" crc="515716025" seo="true" mt="1518862625275" redirect="true"/>
+  <file name="carne-vale.html" crc="4007330818" seo="true" mt="1518292059719" redirect="true"/>
+  <file name="polaroids.html" crc="114972006" seo="true" mt="1518862662372" redirect="true"/>
+  <file name="to-franco-ferrada.html" crc="414585743" seo="true" mt="1518862573921" redirect="true"/>
+  <file name="4-magazine,-2016.html" crc="4246359237" seo="true" mt="1518801710424" redirect="true"/>
+  <file name="4-magazine,-2015.html" crc="4257617133" seo="true" mt="1518292530223" redirect="true"/>
+  <file name="installation.html" crc="137967308" seo="true" mt="1518275858593" redirect="true"/>
+  <file name="waiting-for-paul.html" crc="343685909" seo="true" mt="1518862600126" redirect="true"/>
+  <file name="steps.html" crc="120408704" seo="true" mt="1518861540864" redirect="true"/>
+  <file name="4-magazine,-2017.html" crc="228300376" seo="true" mt="1518862536329" redirect="true"/>
+</manifest>
